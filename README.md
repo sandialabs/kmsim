@@ -1,3 +1,5 @@
+This is a fork of the ns3 repo located at https://gitlab.com/nsnam/ns-3-dev
+
 
 The Network Simulator, Version 3
 ================================
